@@ -30,4 +30,6 @@ vehicle
 - Calculate vehicle tax
 - Know the total price of the vehicle
 
+#Go through the edited_Application Gestion Garage-EN (2).pdf file for more details about the project.
+
 
