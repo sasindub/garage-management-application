@@ -1,0 +1,16 @@
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\bin\Debug\net5.0\Garage Management System.exe
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\bin\Debug\net5.0\Garage Management System.deps.json
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\bin\Debug\net5.0\Garage Management System.runtimeconfig.json
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\bin\Debug\net5.0\Garage Management System.runtimeconfig.dev.json
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\bin\Debug\net5.0\Garage Management System.dll
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\bin\Debug\net5.0\ref\Garage Management System.dll
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\bin\Debug\net5.0\Garage Management System.pdb
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\obj\Debug\net5.0\Garage Management System.csproj.AssemblyReference.cache
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\obj\Debug\net5.0\Garage Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\obj\Debug\net5.0\Garage Management System.AssemblyInfoInputs.cache
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\obj\Debug\net5.0\Garage Management System.AssemblyInfo.cs
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\obj\Debug\net5.0\Garage Management System.csproj.CoreCompileInputs.cache
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\obj\Debug\net5.0\Garage Management System.dll
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\obj\Debug\net5.0\ref\Garage Management System.dll
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\obj\Debug\net5.0\Garage Management System.pdb
+E:\My Projects\Current Projects\C# project asyourdev\Garage Management System\obj\Debug\net5.0\Garage Management System.genruntimeconfig.cache
